@@ -1,0 +1,14 @@
+
+# Token授权站点类型
+enum AuthSiteType { 
+	
+	# 运营端
+	AuthSiteTypeAdmin 1
+	
+	# 城市合伙人端
+	AuthSiteTypeOrg   2
+	
+	# 微信小程序端
+	AuthSiteTypeWxXcx 3
+}
+
